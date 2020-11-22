@@ -1,13 +1,13 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-Business analysis approach on Kickstarter campaign outcomes based on campaigns fared in relation to their launch dates and their funding goals.
+Business analysis approach on Kickstarter campaigns' outcomes. 
 
 ### Purpose
-The purpose of this project is to provide kickstater campaign  insight into parent category “Theater” outcomes (successful, Failed and canceled) based on their launch date and Subcategory Play based on their funding goals.
+The purpose of this project is to perfom a deep analysis on Kickstarter different campaigns outcomes (successful, Failed and canceled) based on their launch dates and funding goals and draw conclusion using dataset and visualizations. 
 
 ## Analysis and Challenges
-
+To provide a better insight into the campaigns' outcomes, we will use data set from Parent Category "Theather" and subcategorie "Plays" 
 ### Analysis of Outcomes Based on Launch Date
 
 ![Theater_Outcomes vs Launch](https://github.com/assaci/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
