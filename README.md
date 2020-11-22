@@ -1,10 +1,10 @@
 # An Analysis of Kickstarter Campaigns
-## Overview of Project
-Performing analysis on Kickstarter data to uncover trends
 
 ## Overview of Project
+Business analysis approach on Kickstarter campaign Outcomes.
 
 ### Purpose
+The purpose of this project is to perform a deep analysis of different Kickstarter campaigns fared providing insight into parent category “theater” outcomes (successful, Failed and canceled) based on their launch date and Subcategory play based on funding goals.
 
 ## Analysis and Challenges
 
