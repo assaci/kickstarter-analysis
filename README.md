@@ -19,7 +19,7 @@ The purpose of this project is to provide kickstater campaign  insight into pare
 
 ### Analysis of Outcomes Based on Goals
 
-![Outcomes VS Goals](https://github.com/assaci/kickstarter-analysis/blob/main/Outcomes_VS_Goals.png?raw=true)
+![Outcomes VS Goals](https://github.com/assaci/kickstarter-analysis/blob/main/Outcomes_VS_Goals.PNG?raw=true)
 
 
 
