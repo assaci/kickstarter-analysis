@@ -10,6 +10,7 @@ The purpose of this project is to perfom a deep analysis on Kickstarter differen
 To provide a better insight into the campaigns' outcomes, we will use data set from Parent Category "Theather" and subcategorie "Plays" 
 ### Analysis of Outcomes Based on Launch Date
 
+
 ![Theater_Outcomes vs Launch](https://github.com/assaci/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
 
