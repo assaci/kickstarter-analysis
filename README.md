@@ -1,7 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-Business analysis approach on Kickstarter campaigns' outcomes. 
+Business analysis approach on Kickstarter campaigns' outcomes.
+
+Kickstarter in Excel
 ![Kickstarter_Challenge](https://github.com/assaci/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlxs?raw=true)
 
 ### Purpose
