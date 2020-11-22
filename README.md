@@ -8,6 +8,5 @@ https://github.com/assaci/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png?r
 
 
 
-
 An Analysis of Kickstarter Campaigns
 Performing analysis on Kickstarter data to uncover trends
