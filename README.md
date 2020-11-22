@@ -5,7 +5,7 @@ Business analysis approach on Kickstarter campaigns' outcomes.
 
 Kickstarter in Excel
 
-![Kickstarter_Challenge.xlxs](https://github.com/assaci/kickstarter-analysis/blob/main/Kickstarter_Challenge.xlxs?raw=true)
+![Kickstarter_Challenge.zip](https://github.com/assaci/kickstarter-analysis/blob/main/Kickstarter_Challenge.zip?raw=true)
 
 ### Purpose
 The purpose of this project is to perfom a deep analysis on Kickstarter different campaigns outcomes (successful, Failed and canceled) based on their launch dates and funding goals and draw conclusion using dataset and visualizations. 
