@@ -11,9 +11,11 @@ Kickstarter in Excel
 The purpose of this project is to perfom a deep analysis on Kickstarter different campaigns outcomes (successful, Failed and canceled) based on their launch dates and funding goals and draw conclusion using dataset and visualizations. 
 
 ## Analysis and Challenges
-To provide a better insight into the campaigns' outcomes, we will use data set from Parent Category "Theather" and subcategorie "Plays" 
-### Analysis of Outcomes Based on Launch Date
+The Kickstarter has multiple campaigns categories and subcategories. However, our analysis will focus more on parent category "Theater" and subcategory "plays" to provide a better insight into the campaigns' outcomes. 
 
+### Analysis of Outcomes Based on Launch Date
+The chart below shows the number of successful, failed or canceled projetcs by month for Parent Category "Theather", since campaigns were launched. 
+*successful outcomes: highest was is Mai with 111 poits and lowest was in december with 34 point 
 
 ![Theater_Outcomes vs Launch](https://github.com/assaci/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
