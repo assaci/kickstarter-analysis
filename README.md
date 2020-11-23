@@ -34,9 +34,14 @@ The chart below shows the campaigns' outcomes based on funding goals for subcate
  The mouths of May and June had the highest successful outcomes based on projects launch dates while december had the lowest successful outcome.
 
 - What can you conclude about the Outcomes based on Goals?
+ 
+ 
  From our analysis, 76% of the project with funding goal in range of less than 1000 were successful with 24% failed. 17% of the projects with funding goal of more than 50000 were successful with 83% failed.
+ 
 
 - What are some limitations of this dataset?
+  
+  
   Lack of statistical data to draw conclusion
 
 - What are some other possible tables and/or graphs that we could create?
