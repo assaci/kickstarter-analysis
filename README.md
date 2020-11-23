@@ -31,6 +31,8 @@ The chart below shows the campaigns' outcomes based on funding goals for subcate
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+ 
+ 
  The mouths of May and June had the highest successful outcomes based on projects launch dates while december had the lowest successful outcome.
 
 - What can you conclude about the Outcomes based on Goals?
