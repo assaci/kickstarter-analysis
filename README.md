@@ -19,19 +19,25 @@ The chart below shows the number of successful, failed or canceled projects per 
 ![Theater_Outcomes vs Launch](https://github.com/assaci/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
 ### Analysis of Outcomes Based on Goals
-To provide insight into campaigns outcomes based on funding goals, we used a dollar-amount ranges so projects can be grouped based on their goal amount.Then we calculated the percentage rate for the projects outcomes. From our analysis, 76% of the project with funding goal in range of less than 1000 were successful with 24% failed. 17% of the projects with funding goal of more than 50000 were successful with 83% failed .
-The chart below shows the campaigns' outcomes based on funding goals for subcategorie "plays".
+To provide insight into campaigns outcomes based on funding goals, we used a dollar-amount ranges so projects can be grouped based on their goal amount. Then we calculated the percentage rate for the projects outcomes. From our analysis, 76% of the project with funding goal in range of less than 1000 were successful with 24% failed. 17% of the projects with funding goal of more than 50000 were successful with 83% failed.
+The chart below shows the campaigns' outcomes based on funding goals for subcategory "plays".
+
 ![Outcomes VS Goals](https://github.com/assaci/kickstarter-analysis/blob/main/Outcomes_VS_Goals.PNG?raw=true)
 
 ### Challenges and Difficulties Encountered
 
+
+
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+ The mouths of May and June had the highest successful outcomes based on projects launch dates while december had the lowest successful outcome.
 
 - What can you conclude about the Outcomes based on Goals?
+ From our analysis, 76% of the project with funding goal in range of less than 1000 were successful with 24% failed. 17% of the projects with funding goal of more than 50000 were successful with 83% failed.
 
 - What are some limitations of this dataset?
+  Lack of statistical data to draw conclusion
 
 - What are some other possible tables and/or graphs that we could create?
 
