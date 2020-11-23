@@ -14,17 +14,13 @@ The purpose of this project is to perfom a deep analysis on Kickstarter differen
 The Kickstarter has multiple campaigns categories and subcategories. However, our analysis will focus more on parent category "Theater" and subcategory "plays" to provide a better insight into the campaigns' outcomes. 
 
 ### Analysis of Outcomes Based on Launch Date
-The chart below shows the number of successful, failed or canceled projetcs by month for Parent Category "Theather", since campaigns were launched. 
-*successful outcomes: highest was is Mai with 111 poits and lowest was in december with 34 point 
+The chart below shows the number of successful, failed or canceled projects per month for Parent Category "Theater" based on their launch dates. The month of May showed the highest number of projects outcomes with a total of 166 while December had the lowest with 75 in total. From 166 projects launched in May, 111 were successful, while 52 failed and 3 were canceled. In December, 75 projects were launched, 37 of the projects were successful while 35 failed and 3 were canceled.
 
 ![Theater_Outcomes vs Launch](https://github.com/assaci/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 
-
-
-
-
-
 ### Analysis of Outcomes Based on Goals
+The chart below shows the campaigns' outcomes based on funding goals for subcategorie "plays".
+
 
 ![Outcomes VS Goals](https://github.com/assaci/kickstarter-analysis/blob/main/Outcomes_VS_Goals.PNG?raw=true)
 
